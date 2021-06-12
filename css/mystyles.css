@@ -1,12 +1,12 @@
 @charset "utf-8";
 
-.myblue {background-color: #2313D9;}
+.myblack {background-color: #000000;}
 
-.myred {background-color: #E1090D;}
+.myorange {background-color: #FF8F39;}
 
 .myheader {background-image: url("../image/day6 images for website/header_bg.jpg"); height: 100px;}
 
 .myboxsize {
-	height: 300px;
-	
+	height: 200px;
 	}
+
